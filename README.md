@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @brabelb 
-- 👀 I’m interested in php, java, c, c++, python and bronco!🤠
-- 📚 I’m currently learning information systems engineering at UTN FRBA
-- 🎓 Electronic technician graduated from technical school No. 1 OTTO KRAUSE
-- 📫 Contact: brabelbb@gmail.com
-
-<!---
-brabelb/brabelb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hola! soy Brian Mamani
+👀 Estoy interesado en lenguajes de programación, electrónica y el diseño gráfico
+📚 Actualmente estoy cursando ingeniería en sistemas en la UTN.BA
+🎓 Soy Técnico electrónico egresado de la escuela técnica N° 1 OTTO KRAUSE
+📫 Contacto: mamanicbrianabel@gmail.com
